@@ -30,9 +30,11 @@ data=pd.read_csv("sampleids.csv")
 data
 ```
 <img width="825" height="638" alt="{16A18D67-41DE-49A9-B1EB-9128E52AEF76}" src="https://github.com/user-attachments/assets/74efa86f-a2f8-4e59-80df-bd7cb876f4bb" />
+
 ```
 data.info()
 ```
+
 <img width="383" height="366" alt="{1E633CA1-5D9D-41F8-B1B7-9C73545C0A38}" src="https://github.com/user-attachments/assets/72c6c919-08cd-42c3-b754-2317e12d0e69" />
 ```
 print(data.head())
